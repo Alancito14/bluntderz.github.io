@@ -1,0 +1,48 @@
+h1 {
+    color:gold;
+}
+#nombre {
+    font-size: 400%;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p {
+    color:gold;
+}
+#text {
+    font-size: 54;
+}
+#background {
+    color: blue;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+} 
+a.N1 {
+    color: greenyellow;
+}
+a.N2 {
+    color: greenyellow;
+}
+body  {
+background-color:black;
+color: green;
+}
+body {
+    background-size: 800px 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+head {
+    background-color: brown;
+}
+div {
+    text-align: right; text-align: justify;
+    font-size: 30px;
+    color: gold; 
+    
+} 
+a.E1 {
+   align-self: center; align-content: center;
+}
